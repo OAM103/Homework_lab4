@@ -1,4 +1,4 @@
-package com.metanit.Studio;
+
 
 public class TShirt extends Clothes implements ManClothing, WomenClothing {
     public void dressMan() {
