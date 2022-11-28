@@ -1,4 +1,4 @@
-package com.metanit.Studio;
+
 
 public class Skirt extends Clothes implements WomenClothing {
     public void dressWomen() {
