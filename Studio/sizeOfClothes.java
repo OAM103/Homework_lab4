@@ -1,4 +1,3 @@
-package com.metanit.Studio;
 
 public class sizeOfClothes {
     public enum Sizes {
