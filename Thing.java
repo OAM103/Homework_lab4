@@ -1,4 +1,4 @@
-package com.metanit;
+
 
 import java.util.Scanner;
 
